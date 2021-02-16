@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/App.css";
+import "./App.css";
 
 const citylist = [
   { name: "Goa", country: "India" },
